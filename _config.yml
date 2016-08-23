@@ -6,5 +6,9 @@ color:
   rhythmicContrast: 0.6290323
 layout_spectrum: 1
 name: Jeremiah Sahabu Photography
+navigation:
+  - name: About Me
+    id: f10fd035-4ea4-43ef-86ab-b43796c12f93
+    type: content
 title: 'Daily Dose of Eats, Fitness, and Life'
 description: Everything and Anything Berkeley
