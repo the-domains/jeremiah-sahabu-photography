@@ -1,17 +1,16 @@
 ---
 description: 'Content Creator: Jeremiah Sahabu aka.. Mr. Disney '
-dateModified: '2016-08-23T02:33:24.363Z'
-datePublished: '2016-08-23T02:33:39.236Z'
+dateModified: '2016-08-23T02:34:22.939Z'
+datePublished: '2016-08-23T02:34:23.450Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-content-creator-jeremiah-sahabu-aka-mr-disney.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: content-creator-jeremiah-sahabu-aka-mr-disney/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2ef301f-45f5-4202-b6a5-dd6f35e94f52.jpg)
