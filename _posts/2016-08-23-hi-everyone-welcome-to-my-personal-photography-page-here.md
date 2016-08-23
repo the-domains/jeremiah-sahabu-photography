@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T02:35:31.606Z'
+datePublished: '2016-08-23T02:37:11.035Z'
 sourcePath: _posts/2016-08-23-hi-everyone-welcome-to-my-personal-photography-page-here.md
 author: []
 via: {}
-dateModified: '2016-08-23T02:35:31.232Z'
+dateModified: '2016-08-23T02:37:10.591Z'
 title: ''
 publisher:
   name: Jeremiah Sahabu
@@ -13,7 +13,7 @@ description: >-
   from past events and also the daily dose of the beauty of everything Berkeley.
   Grab a cup of your favorite drink (boba of course ;) and sit back, relax, and
   let the day unwind. Don’t rush, and stay awhile :)
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
